@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cre8iveRecruiter
+- 👋 Hi, I’m @Cre8iveness
 - 👀 I’m interested in improving my Python skills, improving the IT recruitment process & experience, expanding my network, providing job opportunities for top-notch IT professionals, and above all teaching & learning.
 - 🌱 I’m currently learning Python coding, music theory, live action & animation production, automation, and AI.
 - 💞️ I’m looking to collaborate on application development to bring my ideas to life. I'm very interested in hearing feedback and ideas from IT professionals regarding the current technical recruitment industry, specifically how we can improve it by addressing common painpoints (lack of feedback, missmatched job opportunities, etc.).
